@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4ABA08CC-E961-4A4C-A406-6174C5F468C4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson01.Solution", "src\lesson01\solution\Lesson01.Solution.csproj", "{46A9FA7A-C283-471E-8796-1C70EE77EA3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson01.Solution", "src\lesson01\solution\Lesson01.Solution.csproj", "{46A9FA7A-C283-471E-8796-1C70EE77EA3B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lesson01", "lesson01", "{E9774DDA-2BB5-42C8-96B8-E64E45C668C8}"
 EndProject
